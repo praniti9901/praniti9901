@@ -19,99 +19,65 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Praniti Mohite</h1>
-<h4 align="center">📍 Pune, Maharashtra | 📞 +91-9960513765</h4>
+<h4 align="center">� Full Stack Developer | MERN Stack | Next.js | Pune, India 🌟</h4>
 
 ###
 
-<details><summary><b>Github Trophies 🪶</b></summary><br>
+<h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praniti9901" alt="praniti9901" /></a> </p>
-</details>
-
-<h3 align="left">👩‍💻  About Me : A passionate Full Stack Developer</h3>
+<p align="left">🎯 <b>Full Stack Developer</b> specializing in MERN Stack & Next.js | MCA Graduate<br>🚀 Passionate about building scalable, user-friendly web applications<br>💪 Empowering tech through innovation and collaboration<br>📧 <b>Open for opportunities</b> - <a href="mailto:praniti.mohite.3011@gmail.com">praniti.mohite.3011@gmail.com</a></p>
 
 ###
 
-<p align="left">👋 Masters in Computer Applications (MCA) Graduate and Tech Enthusiast<br><br>- 👨‍💻 Full Stack Developer specializing in MERN Stack & Next.js<br>- 🌱 Currently learning advanced TypeScript and Cloud technologies<br>- 📫 Reach me at <a href="mailto:praniti.mohite.3011@gmail.com">praniti.mohite.3011@gmail.com</a><br>- 💞️ Open to collaborating on React, Next.js, and Full Stack projects<br>- 🏆 Full Stack Development Certified (8 weeks training - Feb 2025)</p>
-
-###
-
-<h3 align="left">🎓 Education</h3>
-
-###
+<h3 align="left">🎓 Education & Certifications</h3>
 
 <p align="left">
-  <b>Masters in Computer Applications (MCA)</b> - 2022-2025<br>
-  MES Institute of Management and Career Courses, Pune | CGPA: 7.9/10.0<br><br>
-  <b>Bachelor of Computer Applications (BCA)</b> - 2020-2023<br>
-  MES Garware College of Commerce, Pune | 62.97%
+  <b>MCA</b> (2022-2025) | MES Institute | CGPA: 7.9/10.0<br>
+  <b>BCA</b> (2020-2023) | MES Garware College | 62.97%<br>
+  ✅ Full Stack Development Certified (8 weeks)
 </p>
 
 ###
 
-<h3 align="left">💻 Technical Skills :</h3>
-
-###
-
-<p align="left"><b>Frontend:</b> HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap, Redux<br><b>Backend:</b> Node.js, Express.js, PHP, REST APIs<br><b>Database:</b> MongoDB, MySQL<br><b>Tools & Others:</b> Git, GitHub, Azure VMs, Firebase, VS Code</p>
-
-###
-
-<h3 align="left">📂 Projects</h3>
-
-###
+<h3 align="left">💻 Tech Stack</h3>
 
 <p align="left">
-  <b>🏠 HouseAssist</b> - MERN Stack Project<br>
-  Real estate platform with React, Node.js, MongoDB, and JWT authentication<br><br>
-  
-  <b>💼 HireCareer</b> - Next.js Project<br>
-  Job portal built with Next.js, TypeScript, Canvas, and advanced features<br><br>
-  
-  <b>📅 DailyStreaks</b> - MERN Stack<br>
-  Habit tracking application with React, Express, and MongoDB<br>
+  <b>Frontend:</b> React.js, Next.js, TypeScript, Tailwind CSS, Redux<br>
+  <b>Backend:</b> Node.js, Express.js, REST APIs<br>
+  <b>Database:</b> MongoDB, MySQL<br>
+  <b>Tools:</b> Git, GitHub, VS Code, Firebase
 </p>
 
 ###
 
-<h3 align="left">🏆 Certifications & Training</h3>
-
-###
+<h3 align="left">🎯 Key Projects</h3>
 
 <p align="left">
-  ✅ Full Stack Development (8 weeks) - Feb 2025<br>
-  ✅ Competitive Programming & Data Structures (with Algorithms & Logic)<br>
-  ✅ Web Development & Advanced Cloud Migration (2025)
+  <b>🏠 HouseAssist</b> - Real estate platform (React, Node.js, MongoDB)<br>
+  <b>💼 HireCareer</b> - Job portal (Next.js, TypeScript)<br>
+  <b>📅 DailyStreaks</b> - Habit tracker (MERN Stack)
 </p>
 
 ###
 
-<h3 align="left">🎯 Core Competencies</h3>
-
-###
+<h3 align="left">💡 Strengths</h3>
 
 <p align="left">
-  • Leadership & Team Collaboration<br>
-  • Problem-Solving & Analytical Thinking<br>
-  • Communication & Presentation Skills<br>
-  • Quick Learner & Adaptable to new technologies
+  ✨ Full Stack Development | Problem-Solving | Team Collaboration<br>
+  ✨ Quick Learner | Communication & Leadership | Adaptability
 </p>
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
+<h3 align="left">� GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praniti9901&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praniti9901&theme=github-dark&hide_border=false" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=praniti9901&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praniti9901&theme=tokyonight&cache_seconds=1800" height="170em" />
 </div>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praniti9901&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praniti9901&layout=compact&theme=tokyonight&cache_seconds=1800" height="170em" />
 </div>
 
 ###
