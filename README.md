@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/praniti-mohite/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:praniti.mohite.3011@gmail.com" target="_blank">
+  <a href="mailto:pranitimohite3101@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://github.com/praniti9901" target="_blank">
@@ -25,15 +25,15 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">🎯 <b>Full Stack Developer</b> specializing in MERN Stack & Next.js | MCA Graduate<br>🚀 Passionate about building scalable, user-friendly web applications<br>💪 Empowering tech through innovation and collaboration<br>📧 <b>Open for opportunities</b> - <a href="mailto:praniti.mohite.3011@gmail.com">praniti.mohite.3011@gmail.com</a></p>
+<p align="left">🎯 <b>Full Stack Developer</b> specializing in MERN Stack & Next.js | MCA Graduate<br>🚀 Passionate about building scalable, user-friendly web applications<br>💪 Empowering tech through innovation and collaboration<br>📧 <b>Open for opportunities</b> - <a href="mailto:pranitimohite3101@gmail.com">pranitimohite3101@gmail.com</a></p>
 
 ###
 
 <h3 align="left">🎓 Education & Certifications</h3>
 
 <p align="left">
-  <b>MCA</b> (2022-2025) | MES Institute | CGPA: 7.9/10.0<br>
-  <b>BCA</b> (2020-2023) | MES Garware College | 62.97%<br>
+  <b>MCA</b> (2023-2025) | MES Institute | CGPA: 7.78/10.0<br>
+  <b>BBA</b> (2020-2023) | MES Garware College | 83.90%<br>
   ✅ Full Stack Development Certified (8 weeks)
 </p>
 
